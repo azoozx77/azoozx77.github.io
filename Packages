@@ -1,0 +1,19 @@
+Package: applebetas.ios.tweak.willow
+Name: Ultrasound Cracked Faraj Alqhatani
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Description: The volume HUD you deserve. — Supports iOS 11 and 12.
+Maintainer: AppleBetas
+Author: AppleBetas
+Section: Tweaks
+Conflicts: com.ruler225.videohud, com.spark.melior
+Version: 1.2.8
+Installed-Size: 980
+Filename: http://cydiaxs.aba.ae/debs/applebetas.ios.tweak.willow_1.2.8_iphoneos-arm.deb
+Depiction: Ultrasound Cracked Faraj Alqhatani
+Size: 84986
+MD5sum: 2101aac9b3c9abdd8eb06fd7f34d43ba
+SHA1: 442f2d33c1f2c567b15ba58879177b609ae552fe
+SHA256: 9d53181f843525d3aef82a78d2ff7f4d4bb1c8d45ddb9ceae71368dd2c0ac00b
+Icon: https://repo.dynastic.co/data/static/version/175745243205861376/175745245294624768?size=180
+Tag: cydia::commercial
