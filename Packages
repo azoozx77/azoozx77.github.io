@@ -1,19 +1,13 @@
-Package: applebetas.ios.tweak.willow
-Name: Ultrasound Cracked Faraj Alqhatani
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Package: com.azoozx77.flex
+Version: 1.0~beta1a
 Architecture: iphoneos-arm
-Description: The volume HUD you deserve. — Supports iOS 11 and 12.
-Maintainer: AppleBetas
-Author: AppleBetas
+Maintainer: Azooz
+Filename: /flex3.deb
+Size: 4080
+MD5sum: 2999bd923df35d23d06c95a64b8079d0
+SHA1: 9bc93a2057b47bb8d79d07bd2ae9cf21e2ea80d9
+SHA256: dfe0adf5983204f9f92308ccc28d5a7ea8abfbed3486aee3b17aab444d5d1b9c
 Section: Tweaks
-Conflicts: com.ruler225.videohud, com.spark.melior
-Version: 1.2.8
-Installed-Size: 980
-Filename: http://cydiaxs.aba.ae/debs/applebetas.ios.tweak.willow_1.2.8_iphoneos-arm.deb
-Depiction: Ultrasound Cracked Faraj Alqhatani
-Size: 84986
-MD5sum: 2101aac9b3c9abdd8eb06fd7f34d43ba
-SHA1: 442f2d33c1f2c567b15ba58879177b609ae552fe
-SHA256: 9d53181f843525d3aef82a78d2ff7f4d4bb1c8d45ddb9ceae71368dd2c0ac00b
-Icon: https://repo.dynastic.co/data/static/version/175745243205861376/175745245294624768?size=180
-Tag: cydia::commercial
+Description: 
+Author: azoozx77
+Name: Flex 3 Beta
