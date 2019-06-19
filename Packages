@@ -1,14 +1,13 @@
-Package: com.azoozx77.appstore
-Priority: optional
-Section: Tweaks
-Maintainer: Azooz Repo
+Package: Appstore++
+Version: 2.0
 Architecture: iphoneos-arm
-Version: 1.2
-Filename: /debs/com.azoozx77_appstore.deb
+Maintainer: Cokepokes
+Filename: debs/com.azoozx77_appstore.deb
 Size: 1665710
 MD5sum: c5ba58bb6dc8eb9095b9e6010a86fd5f
-SHA1: dd1309d97f931bc48cace05f8c534d7d6fc7011e
+SHA1: dd1309d97f931bc48caec05f8c534d7d6fc7011e
 SHA256: 757554316d415a914d09715d9dd0e566aadd0c44af2186592f7402aecf8b6d45
-Description: استرجاع تطبيق لاصدار اقدم
-Author: CokePokes Inc
-Name: AppStore++
+Section: Tweaks
+Description: رجوع الاصدار
+Author: Cokepokes
+Name: Appstore++
