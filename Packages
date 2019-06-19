@@ -2,7 +2,7 @@ Package: Appstore++
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Cokepokes
-Filename: debs/com.azoozx77_appstore.deb
+Filename: appstore.deb
 Size: 1665710
 MD5sum: c5ba58bb6dc8eb9095b9e6010a86fd5f
 SHA1: dd1309d97f931bc48caec05f8c534d7d6fc7011e
