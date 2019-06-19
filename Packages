@@ -1,13 +1,14 @@
 Package: com.azoozx77.appstore
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Azooz
-Filename: /appstore.deb
-Size: 1665710
-MD5sum: C5BA58BB6DC8EB9095B9E6010A86FD5F
-SHA1: DD1309D97F931BC48CAEC05F8C534D7D6FC7011E
-SHA256: 757554316D415A914D09715D9DD0E566AADD0C44AF2186592F7402AECF8B6D45
+Priority: optional
 Section: Tweaks
-Description: استرجاع تطبيقات الى الاصدارت القديمه في الابل ستور 
-Author: azoozx77
-Name: appstore++
+Maintainer: Azooz Repo
+Architecture: iphoneos-arm
+Version: 1.2
+Filename: /debs/com.azoozx77_appstore.deb
+Size: 866608
+MD5sum: c5ba58bb6dc8eb9095b9e6010a86fd5f
+SHA1: dd1309d97f931bc48cace05f8c534d7d6fc7011e
+SHA256: 757554316D415A914D09715D9DD0E566AADD0C44AF2186592F7402AECF8B6D45
+Description: استرجاع تطبيق لاصدار اقدم
+Author: CokePokes Inc
+Name: AppStore++
