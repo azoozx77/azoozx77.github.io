@@ -1,8 +1,7 @@
 Package: com.azoozx77.SCOthman
 Version: 12.10.1
 Architecture: iphoneos-arm
-Maintainer: azoozx77
-Filename: /SCOthman.deb
+Filename: ./debs/com.azoozx77.SCOthman.deb
 Size: 3192120
 MD5sum: 6dd2004a1738d7e9c3129d96b21550f2
 SHA1: fa1ae0e84d1df37aa1493c0aff5ef5b4f3dfadd0
@@ -10,4 +9,5 @@ SHA256: acf5c7195b25a281d6a0219c33b2972ed7f78b576431f09eac42d4600c9cdf71
 Section: Tweaks
 Description: اداه عثمان
 Author: Othman
+Depiction: https://azoozx77.github.io/depictions/?p=com.azoozx77.SCOthman
 Name: SCOthman (IOS 11)
